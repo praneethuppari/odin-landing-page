@@ -10,7 +10,6 @@ body {
 .section-1 {
     background-color: #1F2937;
     padding: 16px;
-   
     height: 500px;
 }
 
@@ -27,6 +26,37 @@ body {
     display: flex;
     flex-flow: column;
     justify-content: center;
+    align-items: center;
+}
+
+.section-4 {
+    display: flex; 
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal {
+    display: flex;
+    background-color: #3882F6;
+    justify-content: space-between;
+    align-items: center;
+    width: 1000px;
+    height: 125px;
+    border-radius: 6px;
+}
+
+.call-to-action {
+    margin-left: 100px;
+    color: #F9FAF8;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+#CTA-sub {
+    color:#cdcbcb;
+    font-size: 14px;
+    font-weight: 300;
 }
 
 .header {
@@ -47,6 +77,15 @@ body {
     gap: 8px;
 }
 
+.footer {
+    background-color: #1F2937;
+    color:  #cbc9c9;
+    padding: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 #logo-text {
     color: #F9FAF8;
     font-size: 24px;
@@ -55,6 +94,13 @@ body {
 
 #hero-content {
     width: 460px;
+}
+
+#inverted-button {
+    border: 2px solid #F9FAF8;
+    font-size: 14px;
+    padding: 6px 26px;
+    margin-right: 100px;
 }
 
 ul {
