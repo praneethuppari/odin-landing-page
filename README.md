@@ -22,6 +22,8 @@ and header.
 ## Credits
 Photo by ([Daryl Han](https://unsplash.com/@darylbydesign?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash))
 on ([Uplash](https://unsplash.com/photos/a-beach-with-footprints-bX_EWsTkoHA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)))
+
+Image by ([AdoreBeautyNZ]("https://pixabay.com/users/adorebeautynz-14675004/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4713579")) from ([Pixabay]("https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4713579))
   
   
   
